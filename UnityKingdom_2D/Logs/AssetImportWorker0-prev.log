@@ -15,11 +15,19 @@ D:/Kuliah/Semester 6/Tekno Game/UnityKingdom_2D/UnityKingdom_2D/UnityKingdom_2D
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
+<<<<<<< Updated upstream
 49797
 Successfully changed project path to: D:/Kuliah/Semester 6/Tekno Game/UnityKingdom_2D/UnityKingdom_2D/UnityKingdom_2D
 D:/Kuliah/Semester 6/Tekno Game/UnityKingdom_2D/UnityKingdom_2D/UnityKingdom_2D
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 42.56 ms, found 3 plugins.
+=======
+64764
+Successfully changed project path to: D:/Kuliah/Semester 6/Tekno Game/UnityKingdom_2D/UnityKingdom_2D/UnityKingdom_2D
+D:/Kuliah/Semester 6/Tekno Game/UnityKingdom_2D/UnityKingdom_2D/UnityKingdom_2D
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 42.24 ms, found 3 plugins.
+>>>>>>> Stashed changes
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.32f1 (12f8b0834f07)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/Resources/UnitySubsystems
@@ -35,11 +43,16 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/MonoBleedingEdge/etc'
+<<<<<<< Updated upstream
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56604
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56732
+>>>>>>> Stashed changes
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+<<<<<<< Updated upstream
 Registered in 0.001927 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
@@ -50,11 +63,24 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (571ms)
 		BeginReloadAssembly (73ms)
+=======
+Registered in 0.002075 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 40.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.533 seconds
+Domain Reload Profiling:
+	ReloadAssembly (534ms)
+		BeginReloadAssembly (67ms)
+>>>>>>> Stashed changes
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
+<<<<<<< Updated upstream
 		EndReloadAssembly (428ms)
 			LoadAssemblies (71ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
@@ -69,12 +95,29 @@ Domain Reload Profiling:
 				BeforeProcessingInitializeOnLoad (8ms)
 				ProcessInitializeOnLoadAttributes (77ms)
 				ProcessInitializeOnLoadMethodAttributes (25ms)
+=======
+		EndReloadAssembly (402ms)
+			LoadAssemblies (65ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (138ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (147ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (41ms)
+				BeforeProcessingInitializeOnLoad (7ms)
+				ProcessInitializeOnLoadAttributes (70ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+>>>>>>> Stashed changes
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
+<<<<<<< Updated upstream
 Registered in 0.001776 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -86,10 +129,24 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (1055ms)
 		BeginReloadAssembly (176ms)
+=======
+Registered in 0.002011 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 41.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.989 seconds
+Domain Reload Profiling:
+	ReloadAssembly (990ms)
+		BeginReloadAssembly (142ms)
+>>>>>>> Stashed changes
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< Updated upstream
 			CreateAndSetChildDomain (19ms)
 		EndReloadAssembly (818ms)
 			LoadAssemblies (118ms)
@@ -98,13 +155,29 @@ Domain Reload Profiling:
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (43ms)
 			SetupLoadedEditorAssemblies (327ms)
+=======
+			CreateAndSetChildDomain (17ms)
+		EndReloadAssembly (794ms)
+			LoadAssemblies (91ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (261ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (295ms)
+>>>>>>> Stashed changes
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (41ms)
+<<<<<<< Updated upstream
 				BeforeProcessingInitializeOnLoad (66ms)
 				ProcessInitializeOnLoadAttributes (195ms)
 				ProcessInitializeOnLoadMethodAttributes (16ms)
+=======
+				BeforeProcessingInitializeOnLoad (59ms)
+				ProcessInitializeOnLoadAttributes (171ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+>>>>>>> Stashed changes
 				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -120,7 +193,11 @@ System memory in use before: 97.7 MB.
 System memory in use after: 97.6 MB.
 
 Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2631.
+<<<<<<< Updated upstream
 Total: 2.781600 ms (FindLiveObjects: 0.234200 ms CreateObjectMapping: 0.078700 ms MarkObjects: 2.343400 ms  DeleteObjects: 0.124700 ms)
+=======
+Total: 2.654700 ms (FindLiveObjects: 0.177800 ms CreateObjectMapping: 0.073500 ms MarkObjects: 2.274300 ms  DeleteObjects: 0.128400 ms)
+>>>>>>> Stashed changes
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -134,6 +211,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< Updated upstream
   path: Assets
   artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.009593 seconds 
@@ -2098,4 +2176,261 @@ Received Import Request.
   path: Assets/Resources/Clips/Monster Lv 2/MonsterLv2MoveDown.anim
   artifactKey: Guid(0d58cd68cd49a7d42b5e92f8b5005202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Resources/Clips/Monster Lv 2/MonsterLv2MoveDown.anim using Guid(0d58cd68cd49a7d42b5e92f8b5005202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0603e6571514aab47f00185e2840fece') in 0.007806 seconds 
+=======
+  path: Assets/Resources/Clips/Monster Lv 2/MonsterLv2IdleUp 1.anim
+  artifactKey: Guid(ee05fdaf2d49cc24fb9e2819eab46b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 2/MonsterLv2IdleUp 1.anim using Guid(ee05fdaf2d49cc24fb9e2819eab46b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8eea5787b99f2fb7b9c7e17d92d683b') in 0.039241 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 94.034958 seconds.
+  path: Assets/Resources/Clips/Monster Lv 2/MonsterLv2IdleUp 2.anim
+  artifactKey: Guid(5b31d67ff9bfb1a408a053fcb83a34e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 2/MonsterLv2IdleUp 2.anim using Guid(5b31d67ff9bfb1a408a053fcb83a34e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5270a01bbfd09091381c0e62afcdf2e5') in 0.009620 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.474835 seconds.
+  path: Assets/Resources/Clips/Monster Lv 2/MonsterLv2IdleUp 3.anim
+  artifactKey: Guid(d0376946c6ecee040b980faf24223de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 2/MonsterLv2IdleUp 3.anim using Guid(d0376946c6ecee040b980faf24223de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46c390a2cc8be54c9094f8ed7403b315') in 0.009791 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.741370 seconds.
+  path: Assets/Resources/Clips/Monster Lv 2/MonsterLv2IdleLeft.anim
+  artifactKey: Guid(d0376946c6ecee040b980faf24223de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 2/MonsterLv2IdleLeft.anim using Guid(d0376946c6ecee040b980faf24223de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89faa63999345700baa9cb32c7763bb2') in 0.007033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.895406 seconds.
+  path: Assets/Resources/Clips/Monster Lv 2/MonsterLv2IdleDown.anim
+  artifactKey: Guid(ee05fdaf2d49cc24fb9e2819eab46b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 2/MonsterLv2IdleDown.anim using Guid(ee05fdaf2d49cc24fb9e2819eab46b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4e53c2cfc81c81391201a4e9f780b06') in 0.007720 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.500645 seconds.
+  path: Assets/Resources/Clips/Monster Lv 2/MonsterLv2IdleRight.anim
+  artifactKey: Guid(5b31d67ff9bfb1a408a053fcb83a34e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 2/MonsterLv2IdleRight.anim using Guid(5b31d67ff9bfb1a408a053fcb83a34e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc9d12f4e05ff16b72c185b2902695fb') in 0.007115 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.317472 seconds.
+  path: Assets/Resources/Clips/Monster Lv 2/MonsterLv2IdleUp.anim
+  artifactKey: Guid(7ee8f6a8c53f198458deffcdc38c2874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 2/MonsterLv2IdleUp.anim using Guid(7ee8f6a8c53f198458deffcdc38c2874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b99f6f7db5004a63f0dbcca181661d0') in 0.007523 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.494058 seconds.
+  path: Assets/Resources/Clips/Monster Lv 2/MonsterLv2IdleUp 1.anim
+  artifactKey: Guid(b1df3877dbf4ddd49aa75ffc810a59a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 2/MonsterLv2IdleUp 1.anim using Guid(b1df3877dbf4ddd49aa75ffc810a59a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7643e4a60ab8de388912d0f8a7884058') in 0.002267 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.380310 seconds.
+  path: Assets/Resources/Clips/Monster Lv 2/MonsterLv2IdleUp 2.anim
+  artifactKey: Guid(2ebd0c61c3546f941918f4f849ed1001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 2/MonsterLv2IdleUp 2.anim using Guid(2ebd0c61c3546f941918f4f849ed1001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e814e41c9ca371aa6b8984851c1f5774') in 0.002284 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.304086 seconds.
+  path: Assets/Resources/Clips/Monster Lv 2/MonsterLv2IdleUp 3.anim
+  artifactKey: Guid(71b40b8a0e933224e91c99bc36cad1e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 2/MonsterLv2IdleUp 3.anim using Guid(71b40b8a0e933224e91c99bc36cad1e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77b92a543d2b9b56a43fd5d39b8b87c8') in 0.002766 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.417201 seconds.
+  path: Assets/Resources/Clips/Monster Lv 2/MonsterLv2IdleUp 4.anim
+  artifactKey: Guid(83284548f672c81429b3908523566d21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 2/MonsterLv2IdleUp 4.anim using Guid(83284548f672c81429b3908523566d21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '627dea299aad2760bb5599b426b0223b') in 0.007773 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.693174 seconds.
+  path: Assets/Resources/Clips/Monster Lv 2/MonsterLv2MoveUp.anim
+  artifactKey: Guid(b1df3877dbf4ddd49aa75ffc810a59a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 2/MonsterLv2MoveUp.anim using Guid(b1df3877dbf4ddd49aa75ffc810a59a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1044e59292952f1c7d232e1766116221') in 0.006875 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.548769 seconds.
+  path: Assets/Resources/Clips/Monster Lv 2/MonsterLv2MoveLeft.anim
+  artifactKey: Guid(83284548f672c81429b3908523566d21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 2/MonsterLv2MoveLeft.anim using Guid(83284548f672c81429b3908523566d21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a941ff55dd3a05a5a03c0d8ae6ca56dd') in 0.007239 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.658963 seconds.
+  path: Assets/Resources/Clips/Monster Lv 2/MonsterLv2MoveDown.anim
+  artifactKey: Guid(71b40b8a0e933224e91c99bc36cad1e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 2/MonsterLv2MoveDown.anim using Guid(71b40b8a0e933224e91c99bc36cad1e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6241445af4811c1e811ca76da9a2833a') in 0.006170 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.444227 seconds.
+  path: Assets/Resources/Clips/Monster Lv 2/MonsterLv2MoveRight.anim
+  artifactKey: Guid(2ebd0c61c3546f941918f4f849ed1001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 2/MonsterLv2MoveRight.anim using Guid(2ebd0c61c3546f941918f4f849ed1001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab551ae8b360e0306779fb1ef023e520') in 0.005922 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 524.824328 seconds.
+  path: Assets/Resources/Clips/Monster Lv 1/MonsterLv1AttackRight.anim
+  artifactKey: Guid(50769b342a6b08d459965acf9f1d659a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 1/MonsterLv1AttackRight.anim using Guid(50769b342a6b08d459965acf9f1d659a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a049ad2f7c14ad393d745d206a5cd690') in 0.008320 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.022655 seconds.
+  path: Assets/Resources/Clips/Monster Lv 1/MonsterLv1AttackLeft.anim
+  artifactKey: Guid(4db7c785b98cc394d978dba5858b063b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 1/MonsterLv1AttackLeft.anim using Guid(4db7c785b98cc394d978dba5858b063b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '537081c9f59e3e3c80531fb77b9bb29c') in 0.007574 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.207881 seconds.
+  path: Assets/Resources/Clips/Monster Lv 1/MonsterLv1AttackDown.anim
+  artifactKey: Guid(a446bc696e8c3c648a4df065eedfb51a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 1/MonsterLv1AttackDown.anim using Guid(a446bc696e8c3c648a4df065eedfb51a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f703be72e15b7e4d5bec7458ad520fc') in 0.007251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.956918 seconds.
+  path: Assets/Resources/Clips/Monster Lv 1/MonsterLv1FallDead.anim
+  artifactKey: Guid(7d604c465c5da274eba2d7aa098a697f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 1/MonsterLv1FallDead.anim using Guid(7d604c465c5da274eba2d7aa098a697f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ce250aa246f9545c74c800a512302a4') in 0.006914 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.912684 seconds.
+  path: Assets/Resources/Clips/Monster Boss/MonsterBossFallDead.anim
+  artifactKey: Guid(d37d7e2cc2a70044b891d4a49660c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Boss/MonsterBossFallDead.anim using Guid(d37d7e2cc2a70044b891d4a49660c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '750dbb56e369613b2dc50945bd646be5') in 0.006965 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.441107 seconds.
+  path: Assets/Resources/Clips/Monster Boss/MonsterBossAttackUp.anim
+  artifactKey: Guid(70b24a4b3c14a2946a7c4e501c221ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Boss/MonsterBossAttackUp.anim using Guid(70b24a4b3c14a2946a7c4e501c221ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a421375f457b2a67416c9febc4771ef') in 0.007371 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.428204 seconds.
+  path: Assets/Resources/Clips/Monster Boss/MonsterBossAttackRight.anim
+  artifactKey: Guid(9c85cfd403c10114296c4a8ceaaca425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Boss/MonsterBossAttackRight.anim using Guid(9c85cfd403c10114296c4a8ceaaca425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97701992b4a36132b8990d95710b45a5') in 0.006607 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.484704 seconds.
+  path: Assets/Resources/Clips/Monster Boss/MonsterBossAttackLeft.anim
+  artifactKey: Guid(80a9af68faf6bf2448ce37aafbce3f1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Boss/MonsterBossAttackLeft.anim using Guid(80a9af68faf6bf2448ce37aafbce3f1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c926cb4f05172bb48627442869cbf2e') in 0.007563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.356034 seconds.
+  path: Assets/Resources/Clips/Monster Boss/MonsterBossAttackDown.anim
+  artifactKey: Guid(cbf33336681eba8408a83e7da2b611a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Boss/MonsterBossAttackDown.anim using Guid(cbf33336681eba8408a83e7da2b611a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73751fa4c718b5b11b8b904c04b8c172') in 0.008031 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.075193 seconds.
+  path: Assets/Resources/Clips/Monster Lv 2/MonsterLv2AttackUp.anim
+  artifactKey: Guid(bd308f5562a331145b0463a837331c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 2/MonsterLv2AttackUp.anim using Guid(bd308f5562a331145b0463a837331c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2396090483f0dd481cc962b682d076d') in 0.007045 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.052551 seconds.
+  path: Assets/Resources/Clips/Monster Lv 2/MonsterLv2AttackRight.anim
+  artifactKey: Guid(f3978f5cecb7ca742ac44e76800de3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 2/MonsterLv2AttackRight.anim using Guid(f3978f5cecb7ca742ac44e76800de3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '243149140948be0040a87eab89d968fb') in 0.007412 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.412450 seconds.
+  path: Assets/Resources/Clips/Monster Lv 2/MonsterLv2AttackLeft.anim
+  artifactKey: Guid(2637af0b3cebc194a8cdcfdb0479a17e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 2/MonsterLv2AttackLeft.anim using Guid(2637af0b3cebc194a8cdcfdb0479a17e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8704b631bd709f73b35a8a0d975d0224') in 0.007147 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.140536 seconds.
+  path: Assets/Resources/Clips/Monster Lv 2/MonsterLv2AttackDown.anim
+  artifactKey: Guid(5d6756da1a847bb4c96481035fee7f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 2/MonsterLv2AttackDown.anim using Guid(5d6756da1a847bb4c96481035fee7f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45f49663a81af17536e6e3594aaccc75') in 0.007466 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.683340 seconds.
+  path: Assets/Resources/Clips/Monster Lv 3/MonsterLv3AttackUp.anim
+  artifactKey: Guid(74190120e3d193c4a8759e56458da270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 3/MonsterLv3AttackUp.anim using Guid(74190120e3d193c4a8759e56458da270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6238843b2204cd68a1dd51ec51e50a43') in 0.007528 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.611627 seconds.
+  path: Assets/Resources/Clips/Monster Lv 3/MonsterLv3AttackRight.anim
+  artifactKey: Guid(f6768ddc70dcf074fa3608d2665586de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 3/MonsterLv3AttackRight.anim using Guid(f6768ddc70dcf074fa3608d2665586de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34c1b42473bd6a616784f208bf6bf4c5') in 0.007488 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.675962 seconds.
+  path: Assets/Resources/Clips/Monster Lv 3/MonsterLv3AttackLeft.anim
+  artifactKey: Guid(07485f5e1ff5c994e8fc54c09c38e84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 3/MonsterLv3AttackLeft.anim using Guid(07485f5e1ff5c994e8fc54c09c38e84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd3a6acd0fb7592d51c82219b02b6c63') in 0.006825 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.012372 seconds.
+  path: Assets/Resources/Clips/Monster Lv 3/MonsterLv3AttackDown.anim
+  artifactKey: Guid(b5a95938c51b0ae45af40a1e278fee4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 3/MonsterLv3AttackDown.anim using Guid(b5a95938c51b0ae45af40a1e278fee4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91bda642c198dbe49bec077b0f444546') in 0.006721 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.237108 seconds.
+  path: Assets/Resources/Clips/Monster Lv 4/MonsterLv4FallDead.anim
+  artifactKey: Guid(fdecb11200bf1204e945ebc0c924a3f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 4/MonsterLv4FallDead.anim using Guid(fdecb11200bf1204e945ebc0c924a3f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdd252e1b18295977eb3cb35785c9a71') in 0.008456 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 144.755169 seconds.
+  path: Assets/Resources/Clips/Monster Lv 4/MonsterLv4AttackUp.anim
+  artifactKey: Guid(8b1be0f966da9fc45a708447183b9147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 4/MonsterLv4AttackUp.anim using Guid(8b1be0f966da9fc45a708447183b9147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c236dcfa518dfe6d7881a52d77c3c71d') in 0.007766 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.838580 seconds.
+  path: Assets/Resources/Clips/Monster Lv 4/MonsterLv4FallDead.anim
+  artifactKey: Guid(fdecb11200bf1204e945ebc0c924a3f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 4/MonsterLv4FallDead.anim using Guid(fdecb11200bf1204e945ebc0c924a3f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21f29eca0dda9d62bfa95e90a7e060aa') in 0.003148 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.350172 seconds.
+  path: Assets/Resources/Clips/Monster Lv 4/MonsterLv4AttackRight.anim
+  artifactKey: Guid(d791349a742ee774880e8259c76d806e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 4/MonsterLv4AttackRight.anim using Guid(d791349a742ee774880e8259c76d806e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c968bbae8186fa120444c0d8503c61f3') in 0.007944 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.984411 seconds.
+  path: Assets/Resources/Clips/Monster Lv 4/MonsterLv4AttackLeft.anim
+  artifactKey: Guid(f89485db119e71648859d023d9ff1d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 4/MonsterLv4AttackLeft.anim using Guid(f89485db119e71648859d023d9ff1d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7f57a3bc075b382e3bac5f51fe1aa91') in 0.008623 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.745389 seconds.
+  path: Assets/Resources/Clips/Monster Lv 4/MonsterLv4AttackDown.anim
+  artifactKey: Guid(7a772db9172e81f4ca4c1d1870ea1aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 4/MonsterLv4AttackDown.anim using Guid(7a772db9172e81f4ca4c1d1870ea1aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56a077e78f0a8e73d8721d2cae4340ef') in 0.007077 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 123.980049 seconds.
+  path: Assets/Resources/Clips/Monster Lv 5/MonsterLv5AttackUp.anim
+  artifactKey: Guid(39d58ed6155166b4884eaf622d93fa28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 5/MonsterLv5AttackUp.anim using Guid(39d58ed6155166b4884eaf622d93fa28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0f3ec9cde22742baa4897fd26b9db14') in 0.007111 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.532065 seconds.
+  path: Assets/Resources/Clips/Monster Lv 5/MonsterLv5FallDead.anim
+  artifactKey: Guid(099ea52dc6c1aba449b4dd56b34452b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 5/MonsterLv5FallDead.anim using Guid(099ea52dc6c1aba449b4dd56b34452b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e23620527c0d1184ef24d1e7da003d08') in 0.006494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.269539 seconds.
+  path: Assets/Resources/Clips/Monster Lv 5/MonsterLv5AttackRight.anim
+  artifactKey: Guid(3cbb23f6244f30a4683fce44d79d68eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 5/MonsterLv5AttackRight.anim using Guid(3cbb23f6244f30a4683fce44d79d68eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88e779c76bef079f9ca8ca2b7eeee9b9') in 0.007009 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.628579 seconds.
+  path: Assets/Resources/Clips/Monster Lv 5/MonsterLv5AttackLeft.anim
+  artifactKey: Guid(cf5256cb0e220874b8d3233cb86c675a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 5/MonsterLv5AttackLeft.anim using Guid(cf5256cb0e220874b8d3233cb86c675a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecc2258828e91f41d5e0dd6386ee7792') in 0.008273 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.514528 seconds.
+  path: Assets/Resources/Clips/Monster Lv 5/MonsterLv5AttackDown.anim
+  artifactKey: Guid(e25e1b74cc45b024d9085d09c1cd109c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Clips/Monster Lv 5/MonsterLv5AttackDown.anim using Guid(e25e1b74cc45b024d9085d09c1cd109c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dc8c2d119903c72d7cc710fdd85d4c7') in 0.007238 seconds 
+>>>>>>> Stashed changes
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

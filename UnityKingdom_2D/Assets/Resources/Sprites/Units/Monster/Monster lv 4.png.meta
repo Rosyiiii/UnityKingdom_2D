@@ -3719,7 +3719,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
+<<<<<<< Updated upstream
         y: 768
+=======
+        y: 766
+>>>>>>> Stashed changes
         width: 64
         height: 64
       alignment: 0
@@ -3740,7 +3744,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
+<<<<<<< Updated upstream
         y: 768
+=======
+        y: 766
+>>>>>>> Stashed changes
         width: 64
         height: 64
       alignment: 0
@@ -3761,7 +3769,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
+<<<<<<< Updated upstream
         y: 768
+=======
+        y: 766
+>>>>>>> Stashed changes
         width: 64
         height: 64
       alignment: 0
@@ -3782,7 +3794,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
+<<<<<<< Updated upstream
         y: 768
+=======
+        y: 766
+>>>>>>> Stashed changes
         width: 64
         height: 64
       alignment: 0
@@ -3803,7 +3819,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
+<<<<<<< Updated upstream
         y: 768
+=======
+        y: 766
+>>>>>>> Stashed changes
         width: 64
         height: 64
       alignment: 0
@@ -3824,7 +3844,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
+<<<<<<< Updated upstream
         y: 768
+=======
+        y: 766
+>>>>>>> Stashed changes
         width: 64
         height: 64
       alignment: 0
@@ -3845,7 +3869,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
+<<<<<<< Updated upstream
         y: 576
+=======
+        y: 574
+>>>>>>> Stashed changes
         width: 192
         height: 192
       alignment: 0
@@ -3866,7 +3894,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
+<<<<<<< Updated upstream
         y: 576
+=======
+        y: 574
+>>>>>>> Stashed changes
         width: 192
         height: 192
       alignment: 0
@@ -3887,7 +3919,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 384
+<<<<<<< Updated upstream
         y: 576
+=======
+        y: 574
+>>>>>>> Stashed changes
         width: 192
         height: 192
       alignment: 0
@@ -3908,7 +3944,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 576
+<<<<<<< Updated upstream
         y: 576
+=======
+        y: 574
+>>>>>>> Stashed changes
         width: 192
         height: 192
       alignment: 0
@@ -3929,7 +3969,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 768
+<<<<<<< Updated upstream
         y: 576
+=======
+        y: 574
+>>>>>>> Stashed changes
         width: 192
         height: 192
       alignment: 0
@@ -3950,7 +3994,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 960
+<<<<<<< Updated upstream
         y: 576
+=======
+        y: 574
+>>>>>>> Stashed changes
         width: 192
         height: 192
       alignment: 0
@@ -4072,7 +4120,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Monster lv 4_205
+=======
+      name: Monster lv 4_195
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 0
@@ -4198,11 +4250,19 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Monster lv 4_217
       rect:
         serializedVersion: 2
         x: 768
         y: 192
+=======
+      name: Monster lv 4_212
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 189
+>>>>>>> Stashed changes
         width: 192
         height: 192
       alignment: 0

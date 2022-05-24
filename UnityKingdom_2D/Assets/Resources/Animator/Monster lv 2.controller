@@ -57,7 +57,11 @@ AnimatorStateMachine:
   m_EntryPosition: {x: 50, y: 120, z: 0}
   m_ExitPosition: {x: 800, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
+<<<<<<< Updated upstream
   m_DefaultState: {fileID: -702222288388292034}
+=======
+  m_DefaultState: {fileID: -6428637336719409218}
+>>>>>>> Stashed changes
 --- !u!1102 &-8566109508441371064
 AnimatorState:
   serializedVersion: 6
